@@ -7,7 +7,7 @@ React JS application for describes the React components.
     * CSS 3
 
 * ### Configurations
-    * https://sachithariyathilaka.medium.com/react-components-8b91bd4b3670 
+    * [Medium Story](https://sachithariyathilaka.medium.com/react-components-8b91bd4b3670)
 
 * ### Release Note
     * Release 1.0.0
